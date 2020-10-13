@@ -1,2 +1,4 @@
-# vex-idrs.token
-Smart Contract to create Stable Coin IDRS
+# IDRS Token
+
+Smart Contract to create IDRS Token in Vexanium Blochchain
+
